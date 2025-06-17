@@ -2,7 +2,7 @@
     "use strict";
     var __webpack_require__ = {};
     (() => {
-        __webpack_require__.p = "/";
+        __webpack_require__.p = ;
     })();
     const modules_flsModules = {};
     let bodyLockStatus = true;
