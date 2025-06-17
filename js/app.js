@@ -2,7 +2,7 @@
     "use strict";
     var __webpack_require__ = {};
     (() => {
-        __webpack_require__.p = ;
+        __webpack_require__.p = '/';
     })();
     const modules_flsModules = {};
     let bodyLockStatus = true;
@@ -297,7 +297,7 @@
             }));
         }
     }), 0);
-    const bg_img = __webpack_require__.p + "src/img/bg-img.jpg";
+    const bg_img = "src/img/bg-img.jpg";
     document.addEventListener("DOMContentLoaded", (function() {
         const preloader = document.getElementById("preloader");
         const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
